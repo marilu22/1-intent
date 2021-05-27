@@ -1,2 +1,7 @@
 # 1-intent
-nexeo
+<h1>
+ nexeo
+ <h1>
+<foot>
+  contat us
+  <foot>
